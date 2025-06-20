@@ -12,9 +12,11 @@ Python: Core programming language for development.
 Jupyter Notebook / IBM Watson Studio: Environment for model development and experimentation. 
 🚀 FeaturesGenerates personalized educational content based on user prompts.Utilizes state-of-the-art generative AI for natural and engaging responses.Scalable and deployable on IBM Cloud for real-world applications. 
 
-# 🧑‍🏫 Sample Prompt:"Explain the concept of ai" 
+# 🧑‍🏫 Sample Prompt: 
+Explain the concept of ai
 
-# 🧑‍🏫 Sample Output: "driven decision making and its applications in various industries" 
+# 🧑‍🏫 Sample Output: 
+driven decision making and its applications in various industries
 
 # 📋 How to run the Notebook Open IBM Watsonx.ai.platform. 
 Upload and open EduTutor_AI_Notebook.ipynb. Run the cells to generate AI responses for your educational prompts.
