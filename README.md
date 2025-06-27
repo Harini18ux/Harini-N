@@ -39,7 +39,7 @@ IBM Granite Models Info -
 https://www.ibm.com/blog/ibm-granite-models
 
 # Try here
-https://edututorai-k4cgrtu44eqfhxhmrr9rft.streamlit.app/
+https://harini-n-mjo7yjnpe2edaxbm4jh2m3.streamlit.app/#edu-tutor-ai
 
 ✍ Team ID-LTVIP2025TMID30359
 
